@@ -1,5 +1,6 @@
 require 'colorize'
 
+
 class AnglerwareCLI
 
   def initialize
